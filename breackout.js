@@ -1,4 +1,4 @@
-function brakeout(){
+function breackout(){
 	this.x = width / 2 - 30;
 
 	this.show = function(){
